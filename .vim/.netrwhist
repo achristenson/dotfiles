@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/alexchristenson/Downloads'
+let g:netrw_dirhist_2='/Users/alexchristenson/Desktop/CTRL-P/Product/Coding/mvp'
+let g:netrw_dirhist_1='/Users/alexchristenson/.vim/pack/vendor/start/ctrlp.vim'
