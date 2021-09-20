@@ -1,0 +1,3 @@
+[submodule "coc.nvim"]
+	path = coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
