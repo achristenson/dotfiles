@@ -1,3 +1,6 @@
 [submodule "coc.nvim"]
 	path = coc.nvim
 	url = https://github.com/neoclide/coc.nvim.git
+[submodule ".vim/bundle/vim-latex-live-preview"]
+	path = .vim/bundle/vim-latex-live-preview
+	url = https://github.com/xuhdev/vim-latex-live-preview.git
